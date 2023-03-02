@@ -2,7 +2,7 @@
 
 Visual retinal prosthesis implant aim to restore vision for individuals who suffer from outer retinal diseases such as retinal pigmentosa (RP) and age-related macular degen- eration (AMD), these diseases cause a loss of photoreceptors to function well in retina. Both diseases have no cure until this moment. One approach proposed to restore vision by implant a microelectrode array on outer surface of the retina. The implant micro- electrode array consist of finite number of electrodes that can be electrically stimulated to send or function the damaged photoreceptors on outer retina. This thesis investigates how tracking moving objects can properly be delivered to prosthetic vision taking into consideration various stated limitations
 
-## Work Reference 
+# Work Reference 
 - Thesis: https://drive.google.com/file/d/1Nj95Nee8goIeVOTtaWIlUFwJlk4oxf0A/view?usp=sharing
 - Full Prezi Defence: https://drive.google.com/file/d/1dkOYGqgDs4fHlup9aYEM7Fz-uua-acF4/view?usp=sharing
 - Static Defence Slides: [Tracking Moving Objects for Visual Prost.pdf](https://github.com/ahmedfarouk2000/Tracking-Moving-Objects-for-Visual-Porsthesis/files/10866359/Tracking.Moving.Objects.for.Visual.Prost.pdf)
@@ -11,7 +11,7 @@ Visual retinal prosthesis implant aim to restore vision for individuals who suff
 
 
 
-## Visual Representation
+# Visual Representation
 
 
 <div align="center">
@@ -35,9 +35,9 @@ Visual retinal prosthesis implant aim to restore vision for individuals who suff
 </div> 
 
 ## Quick Tour
-
- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93868173/222304343-544d3708-8b26-4570-9036-8c66ba755ce4.gif)
-
+<div align="center">
+ ![ezgif</div>  com-gif-maker (1)](https://user-images.githubusercontent.com/93868173/222304343-544d3708-8b26-4570-9036-8c66ba755ce4.gif)
+</div> 
 
 
 
