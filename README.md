@@ -1,8 +1,8 @@
 # Tracking Moving Objects for Visual Prostheses (Bachelor Project)
 
-
+<div align="center">
 ![ezgif com-gif-maker (4) (1)](https://user-images.githubusercontent.com/93868173/222461648-1f92b8d7-48da-4e33-9de0-612c879746bb.gif)
-
+</div>
 
 Visual retinal prosthesis implant aim to restore vision for individuals who suffer from outer retinal diseases such as retinal pigmentosa (RP) and age-related macular degen- eration (AMD), these diseases cause a loss of photoreceptors to function well in retina. Both diseases have no cure until this moment. One approach proposed to restore vision by implant a microelectrode array on outer surface of the retina. The implant micro- electrode array consist of finite number of electrodes that can be electrically stimulated to send or function the damaged photoreceptors on outer retina. This thesis investigates how tracking moving objects can properly be delivered to prosthetic vision taking into consideration various stated limitations
 
