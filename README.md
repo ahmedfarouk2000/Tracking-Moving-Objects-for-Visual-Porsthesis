@@ -33,8 +33,12 @@ Visual retinal prosthesis implant aim to restore vision for individuals who suff
 
 </div> 
 
+## Quick Tour
+
+![Uploading V2Small.gif…]()
 
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93868173/222304343-544d3708-8b26-4570-9036-8c66ba755ce4.gif)
 
 
 
