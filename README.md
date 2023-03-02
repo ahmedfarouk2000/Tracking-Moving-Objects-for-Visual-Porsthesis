@@ -26,10 +26,9 @@ Visual retinal prosthesis implant aim to restore vision for individuals who suff
  
    <img src="https://user-images.githubusercontent.com/93868173/222300310-a60b8fb4-24e4-4161-a4b4-b08f87ee8967.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="400"/>
  
-    <img src="https://user-images.githubusercontent.com/93868173/222300310-a60b8fb4-24e4-4161-a4b4-b08f87ee8967.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="400"/>
-    
+   <img src="https://user-images.githubusercontent.com/93868173/222304075-413017b2-d514-415f-b99a-94d02a74f034.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="400"/>
      
-    <img src="https://user-images.githubusercontent.com/93868173/222304075-413017b2-d514-415f-b99a-94d02a74f034.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="400"/>
+
 
 
 </div> 
