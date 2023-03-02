@@ -1,8 +1,6 @@
 # Tracking Moving Objects for Visual Prostheses (Bachelor Project)
 
 <div align="center">
-![ezgif com-gif-maker (4) (1)](https://user-images.githubusercontent.com/93868173/222461648-1f92b8d7-48da-4e33-9de0-612c879746bb.gif)
-
    <img src="https://user-images.githubusercontent.com/93868173/222461648-1f92b8d7-48da-4e33-9de0-612c879746bb.gif" data-canonical-src="https://user-images.githubusercontent.com/93868173/222461648-1f92b8d7-48da-4e33-9de0-612c879746bb.gif"/>
 </div>
 
