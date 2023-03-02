@@ -12,7 +12,7 @@ Visual retinal prosthesis implant aim to restore vision for individuals who suff
 ## Visual Representation
 
 
-<div style="display:flex; justify-content:space-around">
+<div style="display:flex; justify-content:space-around;background-color:red">
 <img src="https://user-images.githubusercontent.com/93868173/222297668-66eaa966-983a-46fb-bb36-8d9c5dc5020d.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="400"/>
 <img src="https://user-images.githubusercontent.com/93868173/222297668-66eaa966-983a-46fb-bb36-8d9c5dc5020d.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="400"/>
  <img src="https://user-images.githubusercontent.com/93868173/222297668-66eaa966-983a-46fb-bb36-8d9c5dc5020d.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="400"/>
